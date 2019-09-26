@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import Developer from "./developer";
-
 import './style.css';
 
 class App extends Component {
