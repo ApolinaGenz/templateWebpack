@@ -1,10 +1,14 @@
 import React, {Component} from 'react';
 import './style.css';
+import Login from "./Login";
 
 class App extends Component {
     render() {
         return (
-            <h1>Hello React!</h1>
+            <div>
+                <h1>Hello React!</h1>
+                <Login></Login>
+            </div>
         );
     }
 }
