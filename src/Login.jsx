@@ -6,7 +6,7 @@ export default class Login extends React.Component {
         <div>
             <label><input/>Login</label>
             <label><input/>Password</label>
-            <button></button>
+            <button>Login</button>
         </div>
         )
     }
